@@ -105,8 +105,7 @@ article img {
 
 article iframe {
   display: block;
-  width: 700px;
-  height: 400px;
+  width: 1020px;
   margin: 80px auto;}
 
 article img + h2 {
