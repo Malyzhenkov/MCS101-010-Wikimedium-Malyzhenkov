@@ -98,15 +98,15 @@ article a {
 }
 
 article img {
-display: block;
-width: 1020px;
-margin: 80px auto;
+  display: block;
+  width: 1020px;
+  margin: 80px auto;
 }
 
-article div {
+article iframe {
   display: block;
-  position: relative;
-}
+  width: 1020px;
+  margin: 80px auto;}
 
 article img + h2 {
   margin-top: -1px;
