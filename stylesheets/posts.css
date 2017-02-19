@@ -11,8 +11,6 @@
 .postsFeed {
   padding-top: 90px;
   position: relative;
-  display: flex;
-  flex-direction: column;
   align-items: center;
   width: 742px;
   margin: 0 auto;
